@@ -1,3 +1,22 @@
+/*
+---
+description: mooIndent Class 
+Ê
+license: MIT-style
+Ê
+authors: ameyer
+Ê
+version: 0.5
+Ê
+requires:
+  core/1.2.4:
+  more/1.2.4:
+Ê
+provides: mooIndent
+...
+*/
+
+
 var MooIndent = new Class({
 
 	Implements: [Options],
