@@ -16,7 +16,6 @@ provides: mooIndent
 ...
 */
 
-
 var MooIndent = new Class({
 
 	Implements: [Options],
