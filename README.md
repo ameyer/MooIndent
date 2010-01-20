@@ -1,6 +1,8 @@
 MooIndent
 ===========
 
+![Screenshot](http://adam-meyer.com/images/logo.png)
+
 A class that allows you to use tab, shift-tab, and return to indent text in a textarea. Just create a new instance of the class as seen below, and the textarea will be given the power of indentation through tabs in the following ways
 
 *tab: hitting tab will insert a tab
