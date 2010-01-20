@@ -18,9 +18,11 @@ How To Use
 
 You just need this one line of JavaScript code. The ID must be the element ID of a textarea (as seen below)
 
+javascript
     #JS
     var indentor = new MooIndent($('textAreaID'));
 
+html
     #HTML
     <textarea id="textAreaID"></textarea>
 
