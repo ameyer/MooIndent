@@ -1,8 +1,5 @@
 MooIndent
 ===========
-
-![Screenshot](http://adam-meyer.com/images/logo.png)
-
 A class that allows you to use tab, shift-tab, and return to indent text in a textarea. Just create a new instance of the class as seen below, and the textarea will be given the power of indentation through tabs in the following ways
 
 *tab: hitting tab will insert a tab
@@ -13,14 +10,18 @@ A class that allows you to use tab, shift-tab, and return to indent text in a te
 
 *return: if the line you are on is indented when you hit return, the next line will also be indented, by the same amount.
 
-How to use
+![Screenshot](http://adam-meyer.com/images/logo.png)
+
+
+How To Use
 ----------
+
 You just need this one line of JavaScript code. The ID must be the element ID of a textarea (as seen below)
 
-#JS
+    #JS
     var indentor = new MooIndent($('textAreaID'));
 
-#HTML
+    #HTML
     <textarea id="textAreaID"></textarea>
 
 
