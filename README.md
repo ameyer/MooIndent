@@ -16,7 +16,13 @@ A class that allows you to use tab, shift-tab, and return to indent text in a te
 How to use
 ----------
 
-var indentor = new MooIndent($('textAreaID'));
+
+#JS
+    var indentor = new MooIndent($('textAreaID'));
+
+#HTML
+    <textarea id="textAreaID"></textarea>
+
 
 
 General info
