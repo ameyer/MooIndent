@@ -15,7 +15,7 @@ A class that allows you to use tab, shift-tab, and return to indent text in a te
 
 How to use
 ----------
-
+You just need this one line of JavaScript code. The ID must be the element ID of a textarea (as seen below)
 
 #JS
     var indentor = new MooIndent($('textAreaID'));
