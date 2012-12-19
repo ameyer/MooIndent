@@ -20,7 +20,7 @@ You just need this one line of JavaScript code. The ID must be the element ID of
 
 
     #JS
-    var indentor = new MooIndent($('textAreaID'));
+    var indentor = new MooIndent('textAreaID');
 
 ----
 
